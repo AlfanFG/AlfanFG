@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfanFG
 - 👀 I’m interested in Javascript Framework
-- 🌱 I’m currently learning React js, Node js
+- 🌱 I’m currently learning nest js & monorepo architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alfanfaturahman10@gmail.com
 
